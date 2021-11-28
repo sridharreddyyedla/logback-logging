@@ -1,0 +1,2 @@
+2021-11-28 18:20:17,769 WARN com.java.logging.HomeController [http-nio-8080-exec-1] warning message
+2021-11-28 18:20:17,770 ERROR com.java.logging.HomeController [http-nio-8080-exec-1] error message

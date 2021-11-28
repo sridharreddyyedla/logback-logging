@@ -1,0 +1,9 @@
+2021-11-28 18:20:11,782 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogbackApplication using Java 15.0.2 on DESKTOP-NVV90O8 with PID 7612 (C:\Users\sridhar\eclipse-workspace\logback-logging\target\classes started by sridhar in C:\Users\sridhar\eclipse-workspace\logback-logging)
+2021-11-28 18:20:11,787 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.0, Spring v5.3.13
+2021-11-28 18:20:11,788 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-11-28 18:20:13,416 INFO org.springframework.boot.StartupInfoLogger [main] Started LogbackApplication in 2.074 seconds (JVM running for 3.246)
+2021-11-28 18:20:17,767 TRACE com.java.logging.HomeController [http-nio-8080-exec-1] Trace message
+2021-11-28 18:20:17,768 DEBUG com.java.logging.HomeController [http-nio-8080-exec-1] Debug message
+2021-11-28 18:20:17,768 INFO com.java.logging.HomeController [http-nio-8080-exec-1] info message
+2021-11-28 18:20:17,769 WARN com.java.logging.HomeController [http-nio-8080-exec-1] warning message
+2021-11-28 18:20:17,770 ERROR com.java.logging.HomeController [http-nio-8080-exec-1] error message
